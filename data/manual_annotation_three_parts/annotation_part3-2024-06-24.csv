@@ -1,0 +1,101 @@
+File,annotator_1,annotator_2,annotator_3,Final_Label,annotator_1_upd,annotator_2_upd,annotator_3_upd
+output_327.txt,Strong Against,Strong Against,Strong Against,Strong Against,A,A,A
+output_399.txt,No Stance,No Stance,Weak Against,No Stance,N,N,A
+output_360.txt,Question,Question,Skeptical,Question,N,N,N
+output_392.txt,Weak Against,Weak Against,Weak Against,Weak Against,A,A,A
+output_346.txt,Irrelevant,No Stance,Irrelevant,Irrelevant,N,N,N
+output_306.txt,No Stance,No Stance,No Stance,No Stance,N,N,N
+output_303.txt,Weak Against,Skeptical,Weak Against,Strong Against,A,N,A
+output_352.txt,Question Against,Question Against,Weak Against,Question Against,A,A,A
+output_349.txt,No Stance,Question,Weak Against,Question,N,N,A
+output_310.txt,Question Against,Question Against,Question Against,Question Against,A,A,A
+output_308.txt,Question Against,Question Against,Question Against,Question Against,A,A,A
+output_309.txt,Skeptical,Strong Against,Skeptical,Strong Against,N,A,N
+output_342.txt,Weak Against,Question Against,Weak Against,Weak Against,A,A,A
+output_363.txt,Irrelevant,No Stance,No Stance,No Stance,N,N,N
+output_356.txt,Skeptical,No Stance,Weak Against,Skeptical,N,N,A
+output_394.txt,No Stance,Irrelevant,No Stance,No Stance,N,N,N
+output_336.txt,No Stance,Weak Favor,No Stance,No Stance,N,F,N
+output_395.txt,No Stance,Weak Favor,No Stance,No Stance,N,F,N
+output_365.txt,Irrelevant,Irrelevant,No Stance,Irrelevant,N,N,N
+output_325.txt,Skeptical,Skeptical,Question Against,Skeptical,N,N,A
+output_322.txt,Irrelevant,Weak Favor,Irrelevant,Weak Favor,N,F,N
+output_343.txt,No Stance,Weak Against,Weak Against,Weak Against,N,A,A
+output_307.txt,Strong Against,Question Against,Strong Against,Question Against,A,A,A
+output_333.txt,Strong Against,Question Against,Weak Against,Weak Against,A,A,A
+output_386.txt,Question,Question,Question,Question,N,N,N
+output_382.txt,Weak Favor,Irrelevant,Irrelevant,Irrelevant,F,N,N
+output_312.txt,No Stance,No Stance,No Stance,No Stance,N,N,N
+output_341.txt,Skeptical,Question Against,Question,Question,N,A,N
+output_355.txt,Question Against,Skeptical,Question Against,Skeptical,A,N,A
+output_369.txt,Weak Favor,No Stance,Weak Favor,Weak Favor,F,N,F
+output_367.txt,No Stance,No Stance,No Stance,No Stance,N,N,N
+output_339.txt,Weak Against,Irrelevant,Weak Against,Weak Against,A,N,A
+output_397.txt,Question,Question,Question,Question,N,N,N
+output_337.txt,Irrelevant,Irrelevant,Irrelevant,Irrelevant,N,N,N
+output_350.txt,No Stance,Weak Against,Weak Against,Weak Against,N,A,A
+output_326.txt,Question,Question,Question,Question,N,N,N
+output_300.txt,Irrelevant,Irrelevant,Question,Irrelevant,N,N,N
+output_318.txt,No Stance,Weak Against,Weak Against,Weak Against,N,A,A
+output_345.txt,Question,Question,Question,Question,N,N,N
+output_354.txt,Strong Favor,Strong Favor,Weak Favor,Strong Favor,F,F,F
+output_366.txt,Weak Favor,Strong Favor,Strong Favor,Strong Favor,F,F,F
+output_391.txt,Weak Against,Strong Against,Skeptical,Strong Against,A,A,N
+output_329.txt,No Stance,Weak Against,No Stance,Weak Against,N,A,N
+output_328.txt,No Stance,Irrelevant,Question,Irrelevant,N,N,N
+output_314.txt,Question Against,Question Against,Strong Against,Question Against,A,A,A
+output_381.txt,Irrelevant,Irrelevant,Irrelevant,Irrelevant,N,N,N
+output_384.txt,Question Against,Question Against,Question Against,Question Against,A,A,A
+output_379.txt,Question,Question,Question,Question,N,N,N
+output_340.txt,Question,Question,Question,Question,N,N,N
+output_375.txt,Skeptical,Weak Against,Weak Against,Weak Against,N,A,A
+output_332.txt,Irrelevant,Irrelevant,Weak Against,Irrelevant,N,N,A
+output_319.txt,Strong Against,Question Against,Strong Against,Question Against,A,A,A
+output_302.txt,No Stance,Question,Question,Question,N,N,N
+output_358.txt,Weak Against,Strong Against,Strong Against,Strong Against,A,A,A
+output_317.txt,Question,No Stance,Question,Question,N,N,N
+output_372.txt,Question,Question,Question,Question,N,N,N
+output_362.txt,Question Against,Question Against,Question Against,Question Against,A,A,A
+output_361.txt,No Stance,No Stance,No Stance,No Stance,N,N,N
+output_374.txt,Question Against,Skeptical,Question Against,Skeptical,A,N,A
+output_334.txt,Skeptical,Skeptical,Skeptical,Skeptical,N,N,N
+output_385.txt,Weak Against,Strong Against,Weak Against,Strong Against,A,A,A
+output_359.txt,Skeptical,Question Against,Question Favor,Skeptical,N,A,F
+output_388.txt,No Stance,No Stance,Strong Favor,No Stance,N,N,F
+output_304.txt,Question Against,Question Against,Question,Question Against,A,A,N
+output_305.txt,Question,Question,Question,Question,N,N,N
+output_370.txt,Weak Against,Weak Against,Weak Against,Weak Against,A,A,A
+output_335.txt,No Stance,No Stance,No Stance,No Stance,N,N,N
+output_378.txt,Irrelevant,Irrelevant,Irrelevant,Irrelevant,N,N,N
+output_398.txt,No Stance,Weak Against,Question,Question Against,N,A,N
+output_330.txt,Irrelevant,Strong Against,Strong Against,Strong Against,N,A,A
+output_383.txt,No Stance,No Stance,Strong Favor,No Stance,N,N,F
+output_371.txt,Irrelevant,Strong Against,Strong Against,Strong Against,N,A,A
+output_313.txt,Irrelevant,Irrelevant,Irrelevant,Irrelevant,N,N,N
+output_316.txt,Irrelevant,Weak Against,Weak Against,Weak Against,N,A,A
+output_393.txt,Weak Against,Weak Against,Weak Against,Weak Against,A,A,A
+output_353.txt,No Stance,Question,Question Against,No Stance,N,N,A
+output_373.txt,No Stance,Irrelevant,No Stance,No Stance,N,N,N
+output_351.txt,Skeptical,No Stance,Strong Against,Strong Against,N,N,A
+output_357.txt,Irrelevant,Strong Against,No Stance,Irrelevant,N,A,N
+output_320.txt,Weak Against,Weak Against,Weak Against,Weak Against,A,A,A
+output_338.txt,Strong Favor,Strong Favor,Strong Favor,Strong Favor,F,F,F
+output_396.txt,Weak Against,Question Against,Strong Against,Strong Against,A,A,A
+output_364.txt,Irrelevant,Question Favor,Weak Favor,Weak Favor,N,F,F
+output_348.txt,Skeptical,Skeptical,Weak Against,Skeptical,N,N,A
+output_380.txt,Irrelevant,Weak Against,Weak Against,Weak Against,N,A,A
+output_347.txt,Irrelevant,Weak Against,Weak Against,Weak Against,N,A,A
+output_323.txt,Irrelevant,Irrelevant,Irrelevant,Irrelevant,N,N,N
+output_344.txt,Question Against,Weak Against,Strong Against,Question Against,A,A,A
+output_390.txt,Question,Question,Question Against,Question,N,N,A
+output_387.txt,No Stance,No Stance,Weak Against,No Stance,N,N,A
+output_331.txt,No Stance,Question,Question,Question,N,N,N
+output_377.txt,Irrelevant,Irrelevant,Strong Against,Irrelevant,N,N,A
+output_368.txt,Question,Question,Question,Question,N,N,N
+output_315.txt,Question,Question,Question,Question,N,N,N
+output_376.txt,Question Against,Question Against,Question Against,Question Against,A,A,A
+output_311.txt,Question,Question,Question,Question,N,N,N
+output_389.txt,Question,Question Against,Question,Question Against,N,A,N
+output_321.txt,No Stance,No Stance,No Stance,No Stance,N,N,N
+output_301.txt,Irrelevant,Irrelevant,No Stance,Irrelevant,N,N,N
+output_324.txt,Strong Against,Question Against,Strong Against,Strong Against,A,A,A
